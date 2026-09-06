@@ -19,4 +19,24 @@
 | [1683-invalid-tweets](https://github.com/2303A52153/Leetcode-/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/2303A52153/Leetcode-/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/2303A52153/Leetcode-/tree/master/1729-find-followers-count) |
+## Array
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2303A52153/Leetcode-/tree/master/0410-split-array-largest-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2303A52153/Leetcode-/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2303A52153/Leetcode-/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2303A52153/Leetcode-/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2303A52153/Leetcode-/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
